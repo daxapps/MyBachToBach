@@ -12,6 +12,8 @@
 		5FB7A0091D2A876600D1E2EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7A0071D2A876600D1E2EB /* Main.storyboard */; };
 		5FB7A00B1D2A876600D1E2EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7A00A1D2A876600D1E2EB /* Assets.xcassets */; };
 		5FB7A00E1D2A876600D1E2EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7A00C1D2A876600D1E2EB /* LaunchScreen.storyboard */; };
+		5FB7A0161D2A89DE00D1E2EB /* My Back To Bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7A0151D2A89DE00D1E2EB /* My Back To Bach.jpg */; };
+		5FB7A0181D2A8AA100D1E2EB /* bach-bwv904-breemer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5FB7A0171D2A8AA100D1E2EB /* bach-bwv904-breemer.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		5FB7A00A1D2A876600D1E2EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FB7A00D1D2A876600D1E2EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FB7A00F1D2A876600D1E2EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FB7A0151D2A89DE00D1E2EB /* My Back To Bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "My Back To Bach.jpg"; sourceTree = "<group>"; };
+		5FB7A0171D2A8AA100D1E2EB /* bach-bwv904-breemer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bach-bwv904-breemer.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				5FB7A0031D2A876600D1E2EB /* AppDelegate.swift */,
 				5FB7A0051D2A876600D1E2EB /* ViewController.swift */,
 				5FB7A0071D2A876600D1E2EB /* Main.storyboard */,
+				5FB7A0151D2A89DE00D1E2EB /* My Back To Bach.jpg */,
+				5FB7A0171D2A8AA100D1E2EB /* bach-bwv904-breemer.mp3 */,
 				5FB7A00A1D2A876600D1E2EB /* Assets.xcassets */,
 				5FB7A00C1D2A876600D1E2EB /* LaunchScreen.storyboard */,
 				5FB7A00F1D2A876600D1E2EB /* Info.plist */,
@@ -124,6 +130,8 @@
 			files = (
 				5FB7A00E1D2A876600D1E2EB /* LaunchScreen.storyboard in Resources */,
 				5FB7A00B1D2A876600D1E2EB /* Assets.xcassets in Resources */,
+				5FB7A0181D2A8AA100D1E2EB /* bach-bwv904-breemer.mp3 in Resources */,
+				5FB7A0161D2A89DE00D1E2EB /* My Back To Bach.jpg in Resources */,
 				5FB7A0091D2A876600D1E2EB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
